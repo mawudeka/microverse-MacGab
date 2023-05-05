@@ -1,0 +1,16 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+#header #nav-bar > .nav-link > li {
+	list-style: none;
+	/* display: inline-block; */
+	padding: 10px 80px;
+	float: right;
+}
+
+#nav-bar {
+	margin-bottom: 30px;
+}
